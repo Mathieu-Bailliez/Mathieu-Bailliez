@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
 
