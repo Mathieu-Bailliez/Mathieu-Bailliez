@@ -3,34 +3,33 @@ Mathieu Bailliez
 </h1>
 
 <p align="center">
-Software Developer Student • Holberton School France
+Software Development Student • Holberton School France
 </p>
 
 <p align="center">
-C • Python • Linux • Git • Docker
+C • Python • Linux • Git
 </p>
 
 ---
 
-A software developer passionate about Linux systems, backend development, and C projects.
+I'm currently studying software development at Holberton School France.
 
-Every day, I learn how to build applications 
-that are robust, maintainable, and well-documented by following best practices in
-software development.
+My goal is to build strong programming fundamentals before moving on to more advanced topics. I enjoy understanding how things work, reading documentation, and improving the way I work every day.
 
 ---
 
 ## About Me
 
-- 🎓 Software Developer Student @ Holberton School France
-- 📍 Lille, France
-- 💻 Interested in Backend Development, Linux and Systems Programming
-- 🌱 Currently learning Python, Docker and SQL
-- 🎯 Looking for an internship / junior software developer opportunity
+* 🎓 Software Development Student at Holberton School France
+* 📍 Lille, France
+* 🌱 Currently learning C, Python and Linux
+* 📚 I enjoy reading official documentation and understanding the tools I use
+* 🎮 Interested in game modding and the technologies behind it
+* 💼 Looking for an internship or apprenticeship
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <p align="center">
 
@@ -42,41 +41,41 @@ software development.
 
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-## 📚 En ce moment
+## Currently Working On
 
-- 🔥 Projet printf
-- 🐚 Shell
-- 🐍 Python
-- 🐳 Docker
-
----
-
-## 🚀 Projets principaux
-
-- printf
-- Simple Shell
-- Low Level Programming
-- Docker
-- Git Intro
+* printf
+* Shell
+* Python
+* Improving my Linux workflow
 
 ---
 
-## 📊 GitHub
+## Featured Projects
 
-*(Les statistiques seront ajoutées dans la prochaine étape.)*
+Coming soon.
+
+Most of my repositories are school projects. As I keep learning, I'll gradually add personal projects that reflect what I'm interested in building.
 
 ---
 
-## 📫 Me contacter
+## GitHub
 
-- 📍 Lille, France
-- 💼 LinkedIn *(à venir)*
-- 🌐 Portfolio *(à venir)*
+GitHub is where I document my progress.
+
+I'm more interested in building solid foundations than collecting technologies, so this profile will evolve as I learn and create new projects.
+
+---
+
+## Contact
+
+📍 Lille, France
+
+💼 LinkedIn *(coming soon)*
+
+🌐 Portfolio *(coming soon)*
