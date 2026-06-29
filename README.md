@@ -1,9 +1,20 @@
-# 👋 Bonjour, moi c'est Mathieu Bailliez
+<h1 align="center">
+Mathieu Bailliez
+</h1>
 
-### 💻 Software Developer Student @ Holberton School France
+<p align="center">
+Software Developer Student • Holberton School France
+</p>
 
-Passionné par le développement logiciel, Linux et la programmation système.
-Je développe principalement en **C**, tout en apprenant **Python**, **Git**, **Docker** et les bonnes pratiques du développement logiciel.
+<p align="center">
+C • Python • Linux • Git • Docker
+</p>
+
+---
+
+Développeur logiciel passionné par les systèmes Linux, le développement backend et les projets en C.
+
+J'apprends chaque jour à construire des applications robustes, maintenables et documentées en suivant les bonnes pratiques du développement logiciel.
 
 ---
 
