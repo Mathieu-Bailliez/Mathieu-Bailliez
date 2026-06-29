@@ -1,108 +1,87 @@
-<div align="center">
-
-# Mathieu Bailliez
-
-### Software Development Student • Holberton School France
-
-**C • Python • MySQL • HTML • CSS • JavaScript • Linux • Git**
-
-<br>
-
-*Building solid foundations, one project at a time.*
-
-</div>
-
----
-
-## About Me
-
-I'm currently studying software development at Holberton School France.
-
-My goal is to build strong programming fundamentals before specializing in a particular field. I enjoy understanding how things work, reading official documentation, and improving my workflow as I learn.
-
-Outside of programming, I'm interested in game modding communities such as **Skyrim**, **Minecraft**, and **GTA V**. One of my long-term goals is to create my own mods from scratch and understand the technologies behind them.
-
----
-
-## Current Focus
-
-* Writing cleaner C code
-* Becoming more comfortable with Python
-* Improving my Linux and Git workflow
-* Building projects and learning through practice
-* Preparing for an internship or apprenticeship
-
----
-
-## Tech Stack
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-
+  <!-- Replace this banner with your own custom banner -->
+  <img width="1584" height="396" alt="MATHIEU BAILLIEZ" src="YOUR_BANNER_IMAGE_URL_HERE" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Software+Development+Student;C+%7C+Python+%7C+JavaScript;Holberton+School+France;Always+Learning" />
+</p>
 
-## Learning Next
+<h1 align="center">About Me</h1>
 
-I'm planning to explore:
+<p align="center">
+🎓 Software Development Student at Holberton School France<br>
+📍 Lille, France<br>
+🌱 Currently learning C, Python, JavaScript and MySQL<br>
+🐧 Daily Linux user<br>
+🎮 Interested in game modding (Skyrim, Minecraft & GTA V)<br>
+💼 Looking for an internship or apprenticeship
+</p>
 
-* Java
-* Machine Learning
-
----
-
-## Featured Projects
-
-The repositories pinned below represent my current learning journey.
-
-As I gain more experience, I'll replace them with personal projects that reflect the kind of software I want to build.
-
----
-
-## GitHub
-
-This profile documents my progress as a developer.
-
-You'll mostly find school projects for now, followed by personal projects as I continue learning and experimenting.
-
----
-
-## Let's Connect
+<h1 align="center">🌐 Connect with Me</h1>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mathieu-bailliez/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:mathieubailliez@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
+<h1 align="center">💻 Tech Stack</h1>
+
 <p align="center">
 
-📍 Lille, France
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white">
 
-Open to internship and apprenticeship opportunities.
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
 
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+
+</p>
+
+<h1 align="center">📚 Currently Learning</h1>
+
+<p align="center">
+
+C • Python • JavaScript • MySQL
+
+<br><br>
+
+Next on my roadmap:
+
+Java • Machine Learning
+
+</p>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Mathieu-Bailliez&theme=dark"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Bailliez&layout=compact&theme=dark"/>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mathieu-Bailliez&color=grey&style=flat-square">
 </p>
