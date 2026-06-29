@@ -7,14 +7,14 @@ Software Development Student • Holberton School France
 </p>
 
 <p align="center">
-C • Python • Linux • Git
+C • Python • MySQL • HTML • CSS • JavaScript • Linux • Git
 </p>
 
 ---
 
 I'm currently studying software development at Holberton School France.
 
-My goal is to build strong programming fundamentals before moving on to more advanced topics. I enjoy understanding how things work, reading documentation, and improving the way I work every day.
+I'm building a solid foundation through hands-on projects and daily practice. I enjoy understanding how things work, reading documentation, and improving my workflow one step at a time.
 
 ---
 
@@ -22,7 +22,8 @@ My goal is to build strong programming fundamentals before moving on to more adv
 
 * 🎓 Software Development Student at Holberton School France
 * 📍 Lille, France
-* 🌱 Currently learning C, Python and Linux
+* 🌱 Currently working with C, Python, JavaScript and MySQL
+* 🐧 Daily Linux user
 * 📚 I enjoy reading official documentation and understanding the tools I use
 * 🎮 Interested in game modding and the technologies behind it
 * 💼 Looking for an internship or apprenticeship
@@ -37,6 +38,14 @@ My goal is to build strong programming fundamentals before moving on to more adv
 
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
@@ -47,28 +56,34 @@ My goal is to build strong programming fundamentals before moving on to more adv
 
 ---
 
-## Currently Working On
+## Current Focus
 
-* printf
-* Shell
-* Python
-* Improving my Linux workflow
+* Improving my C and Python skills
+* Strengthening my Linux and Git workflow
+* Building better software development habits
+* Working on Holberton School projects
+
+---
+
+## Next on My Roadmap
+
+* Java
+* Machine Learning
+* Personal projects related to game modding
 
 ---
 
 ## Featured Projects
 
-Coming soon.
-
-Most of my repositories are school projects. As I keep learning, I'll gradually add personal projects that reflect what I'm interested in building.
+I'll gradually showcase the projects that best represent my progress and what I'm learning.
 
 ---
 
 ## GitHub
 
-GitHub is where I document my progress.
+This profile reflects my learning journey.
 
-I'm more interested in building solid foundations than collecting technologies, so this profile will evolve as I learn and create new projects.
+Most repositories are school projects, but my goal is to gradually add personal projects that explore new ideas and document what I learn along the way.
 
 ---
 
