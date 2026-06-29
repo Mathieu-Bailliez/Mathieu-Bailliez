@@ -30,20 +30,21 @@ J'apprends chaque jour à construire des applications robustes, maintenables et 
 
 ## 🛠️ Technologies
 
-### Langages
+<p align="center">
 
-- C
-- Python
-- Bash
-- SQL
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
 
-### Outils
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
 
-- Git
-- GitHub
-- Linux
-- Docker
-- VS Code
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+</p>
 
 ---
 
