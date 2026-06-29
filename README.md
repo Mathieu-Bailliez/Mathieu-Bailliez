@@ -12,9 +12,11 @@ C • Python • Linux • Git • Docker
 
 ---
 
-Développeur logiciel passionné par les systèmes Linux, le développement backend et les projets en C.
+A software developer passionate about Linux systems, backend development, and C projects.
 
-J'apprends chaque jour à construire des applications robustes, maintenables et documentées en suivant les bonnes pratiques du développement logiciel.
+Every day, I learn how to build applications 
+that are robust, maintainable, and well-documented by following best practices in
+software development.
 
 ---
 
