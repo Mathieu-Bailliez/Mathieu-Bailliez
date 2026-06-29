@@ -87,10 +87,22 @@ Most repositories are school projects, but my goal is to gradually add personal 
 
 ---
 
+---
+
 ## Contact
 
-📍 Lille, France
+<p align="left">
 
-💼 LinkedIn *(coming soon)*
+<a href="https://www.linkedin.com/in/mathieu-bailliez/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ton.email@example.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+📍 Lille, France
 
 🌐 Portfolio *(coming soon)*
