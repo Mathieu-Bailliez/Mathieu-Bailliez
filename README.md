@@ -18,13 +18,13 @@ J'apprends chaque jour à construire des applications robustes, maintenables et 
 
 ---
 
-## 🚀 À propos de moi
+## About Me
 
-- 🎓 Étudiant à **Holberton School France**
-- 🌍 Basé à **Lille, France**
-- 💻 Passionné par le développement Backend et les systèmes Linux
-- 📚 J'apprends actuellement Python, Docker et SQL
-- 🎯 Objectif : devenir Développeur Logiciel / Backend
+- 🎓 Software Developer Student @ Holberton School France
+- 📍 Lille, France
+- 💻 Interested in Backend Development, Linux and Systems Programming
+- 🌱 Currently learning Python, Docker and SQL
+- 🎯 Looking for an internship / junior software developer opportunity
 
 ---
 
